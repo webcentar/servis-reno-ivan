@@ -291,7 +291,8 @@ section h2 {
 }
 
 .about-box {
-  max-width: 860px;
+  width: 100%:
+  max-width: 100%;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 24px;
